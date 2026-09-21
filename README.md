@@ -1,7 +1,12 @@
 # TXBoard AccessAudit
 
+[![Plugin CI](https://github.com/PaiMonCai/TXBoard-AccessAudit/actions/workflows/ci.yml/badge.svg)](https://github.com/PaiMonCai/TXBoard-AccessAudit/actions/workflows/ci.yml)
+
+
 > TXBoard 官方第一方访问审计插件。  
 > 独立于 TXBoard Core 与 TX-Node Core 发布，通过 **TXBoard Plugin Package v1** 安装和运行。
+
+当前插件版本：**2.4.0**。
 
 AccessAudit 为 TXBoard 提供节点访问审计、规则匹配、命中记录、自动封禁、节点健康监控、分析统计与 Telegram 告警能力。它是一个**可选插件**：不安装 AccessAudit，TXBoard 的用户、套餐、支付、订阅和节点控制链路仍可完整运行。
 
