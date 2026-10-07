@@ -1,6 +1,6 @@
 # TXBoard AccessAudit
 
-[![Plugin CI](https://github.com/PaiMonCai/TXBoard-AccessAudit/actions/workflows/ci.yml/badge.svg)](https://github.com/PaiMonCai/TXBoard-AccessAudit/actions/workflows/ci.yml)
+[![Plugin CI](https://github.com/ANRCM0/TXBoard-AccessAudit/actions/workflows/ci.yml/badge.svg)](https://github.com/ANRCM0/TXBoard-AccessAudit/actions/workflows/ci.yml)
 
 
 > TXBoard 官方第一方访问审计插件。  
@@ -142,7 +142,7 @@ TXBoard 将 `admin/dist` 发布到：
 
 Plugin Package 契约见：
 
-https://github.com/PaiMonCai/TXBoard/tree/main/contracts/plugin-package
+https://github.com/ANRCM0/TXBoard/tree/main/contracts/plugin-package
 
 ## Admin 页面
 
@@ -180,7 +180,7 @@ POST /api/v1/plugin/access-audit/report
 
 新部署优先使用 TX-Node 的可选审计 reporter/client：
 
-https://github.com/PaiMonCai/TX-Node
+https://github.com/ANRCM0/TX-Node
 
 AccessAudit 与 TX-Node 的关系是：
 
@@ -311,6 +311,6 @@ Admin App
 
 ## Related projects
 
-- TXBoard: https://github.com/PaiMonCai/TXBoard
-- TX-Node: https://github.com/PaiMonCai/TX-Node
-- Plugin Package Contract: https://github.com/PaiMonCai/TXBoard/tree/main/contracts/plugin-package
+- TXBoard: https://github.com/ANRCM0/TXBoard
+- TX-Node: https://github.com/ANRCM0/TX-Node
+- Plugin Package Contract: https://github.com/ANRCM0/TXBoard/tree/main/contracts/plugin-package
